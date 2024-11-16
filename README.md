@@ -27,7 +27,7 @@ For polymorphism deserialization from mongodb documents,
 Clone the project
 
 ```bash
-  git clone https://link-to-project
+  git clone https://github.com/yasarburakdikici/spring-data-mongodb-polymorphism.git
 ```
 
 Install dependencies
